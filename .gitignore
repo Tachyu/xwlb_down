@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+DownUrls/*
+MergeInfo/*
+VideoId/*
+*.zip
+*.pkt
+*.log
+*.ipynb
